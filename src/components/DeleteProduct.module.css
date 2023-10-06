@@ -1,0 +1,11 @@
+.deleteModal{
+    text-align: center;
+    font-size:25px;
+}
+.deleteModal button{
+    margin-right:5px;
+    padding:20px;
+    color:white;
+    background-color: black;
+    font-size:15px;
+}
